@@ -1,7 +1,7 @@
 # RESTful API
 
 Presentación de una RESTful API en la asignatura Ciencias de la computación y aplicaciones moviles. El objetivo de la aplicación es mostrar los siguientes temas:
-- API tipo CRUD (Ver documentación en API/Item Admin)
+- API tipo CRUD (Ver [documentación](https://www.postman.com/unergyteam/workspace/restapi/overview) en API/Item Admin)
 - API para hacer una compra sin estar autenticado [aquí](https://www.postman.com/unergyteam/workspace/restapi/request/6053186-0afbdc49-f966-4cd8-84b9-cc8a3edb4521)
 - API para hacer una compra con previa autenticación [aquí](https://www.postman.com/unergyteam/workspace/restapi/request/6053186-9337dd4c-fd97-4918-997f-1aa9a85e1632)
 
@@ -11,7 +11,7 @@ Presentación de una RESTful API en la asignatura Ciencias de la computación y 
 - Purchase
 
 # APIs
-En la documentación se encuentran dos colecciones, una para Autenticación y la otra para la interacción con el negocio. Cada API tiene adjunto los ejemplos respectivos.
+En la [documentación](https://www.postman.com/unergyteam/workspace/restapi/overview) se encuentran dos colecciones, una para Autenticación y la otra para la interacción con el negocio. Cada API tiene adjunto los ejemplos respectivos.
 
 # Setup
 1. Crear entorno virtual con python3.8
